@@ -1,6 +1,6 @@
-# :clap: Hello there! I'm Ilham Budi Prasetyo
+# :clap: Hello there! I'm Ghulam Ikhsan
 
-### I am very passionate about android development and also an open source enthusiast :heart:.
+### I am passionate in web development :heart:.
 
 <div align="left">
     <a href="#">
