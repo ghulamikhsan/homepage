@@ -14,7 +14,7 @@
 <br>
 
 - :school: &nbsp;I'm an informatics engineering student at Politeknik Negeri Semarang
-- :man_technologist: &nbsp;I'm currently focusing on developing android apps using **Laravel**
+- :man_technologist: &nbsp;I'm currently focusing on developing website or backend apps using **Laravel**
 - :seedling: &nbsp;I like mountain climbing and things related to nature
 
 ## Connect with me
